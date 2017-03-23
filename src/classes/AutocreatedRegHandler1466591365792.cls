@@ -2,7 +2,7 @@
 //Handler class. You will need to customize it to ensure it meets your needs and
 //the data provided by the third party.
 //test
-
+//////hhhhhh
 global class AutocreatedRegHandler1466591365792 implements Auth.RegistrationHandler{
 global boolean canCreateUser(Auth.UserData data) {
 	//TODO: Check whether we want to allow creation of a user with this data
